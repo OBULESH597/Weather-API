@@ -2,7 +2,7 @@
 # 🌐 CODTECH Technologies - Weather Webpage Project
 
 ## 📌 Project Name
-**CODTECH TASK-1: Responsive Webpage to Fetch and Display Public API Data**
+**CODTECH TASK-1: Responsive Webpage to Fetch and Display Public API Data Iintegration**
 
 ---
 
@@ -35,7 +35,7 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 
 ## 🌤️ Weather App Preview
 
-[Weather Screenshot](./assets/image.png)
+[Weather Screenshot](.TASK-!/image.png)
 
 
 
