@@ -33,7 +33,7 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 
 ## 📷 Screenshots
 
-![App Preview](./TASK-1/image.png)
+![App Preview](.Weather-API/TASK-1/image.png)
 
 
 ---
