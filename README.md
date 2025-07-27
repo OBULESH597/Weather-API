@@ -1,5 +1,20 @@
 # Weather-API
 # 🌐 CODTECH Technologies - Weather Webpage Project
+---
+
+## 👨‍💻 Internship Details
+
+- **Intern Name**: Obulesu Polisetti
+- **Intern ID**: CT08DG2167  
+- **Internship Program**: Full Stack Web Development Internship  
+- **Organization**: [CODTECH Technologies](https://codtech.in)  
+- **Task Number**: Task-1 – API Integration  
+- **Project Title**: Weather Webpage using OpenWeatherMap API  
+- **Duration**: 17 June 2025 – 17 August 2025 
+
+---
+
+
 
 ## 📌 Project Name
 **CODTECH TASK-1: Responsive Webpage to Fetch and Display Public API Data Iintegration**
@@ -21,7 +36,7 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 - ❌ Handles invalid input and error cases gracefully
 
 ---
-
+   
 ## 🛠 Tech Stack
 
 - **HTML5**  
@@ -37,6 +52,9 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 
 [Weather Screenshot](.TASK-!/image.png)
 
+## 🚀 Live Demo
+
+🔗 [View Live Weather App](https://obulesu-weatherapp.netlify.app)
 
 
 ---
