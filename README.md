@@ -33,7 +33,8 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 
 ## 📷 Screenshots
 
-![Weather App Screenshot](https://via.placeholder.com/700x400?text=Weather+App+Preview)
+![App Preview](./TASK-1/image.png)
+
 
 ---
 
@@ -42,5 +43,5 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/codtech-weather-task.git
+git clone https://github.com/OBULESH597/Weather-API.git
 cd codtech-weather-task
