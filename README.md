@@ -57,7 +57,7 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 
 ## 🚀 Live Demo
 
-🔗 [View Live Weather App](https://obulesu-weatherapp.netlify.app)
+🔗 [View Live Weather App](https://obulesh597.github.io/Weather-API/TASK-!/)
 
 
 ---
