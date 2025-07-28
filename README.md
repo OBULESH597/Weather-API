@@ -50,7 +50,10 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 
 ## 🌤️ Weather App Preview
 
-[Weather Screenshot](.TASK-!/image.png)
+
+![App Preview](./)
+
+---
 
 ## 🚀 Live Demo
 
