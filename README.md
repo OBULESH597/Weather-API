@@ -51,7 +51,7 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 ## 🌤️ Weather App Preview
 
 
-![App Preview](./)
+![App Preview](./TASK-!/image.png)
 
 ---
 
