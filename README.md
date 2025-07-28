@@ -1,4 +1,4 @@
-# Weather-API
+# Weather-API Integration
 # 🌐 CODTECH Technologies - Weather Webpage Project
 ---
 
@@ -9,7 +9,7 @@
 - **Internship Program**: Full Stack Web Development Internship  
 - **Organization**: [CODTECH Technologies](https://codtech.in)  
 - **Task Number**: Task-1 – API Integration  
-- **Project Title**: Weather Webpage using OpenWeatherMap API  
+- **Project Title**: API Integration 
 - **Duration**: 17 June 2025 – 17 August 2025 
 
 ---
